@@ -62,11 +62,17 @@ Screenshot C:
 COMPONENT TREE
 
 App
+
    Navbar
+   
    Composer
+   
    Feed
+   
       PostCard
+      
          CommentList
+         
          CommentForm
 
 WHERE STATE LIVES 
