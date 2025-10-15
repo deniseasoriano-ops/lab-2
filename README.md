@@ -60,14 +60,13 @@ Screenshot C:
 <img width="3447" height="2159" alt="image" src="https://github.com/user-attachments/assets/4df042e6-d562-415b-852a-48a306f3ec42" />
 
 COMPONENT TREE
-
-*App
-   *Navbar
-   *Composer
-   *Feed
-      *PostCard
-         *CommentList
-         *CommentForm
+* `App`
+    * `Navbar`
+    * `Composer`
+    * `Feed`
+        * `PostCard`
+            * `CommentList`
+            * `CommentForm`
 
 WHERE STATE LIVES 
 
